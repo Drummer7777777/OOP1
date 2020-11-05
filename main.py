@@ -10,3 +10,4 @@ dog.set_size("Big")
 dog.get_size()
 dog.feed("milk") # Cat's eat only meat
 dog.need_to_feed()
+
